@@ -1,43 +1,16 @@
-# ApiSecurity
-APISEC UNIVERSITY API PENETRATION TESTING KURSU NOTLARI  
+Günümüzde API güvenliği, uygulama güvenliğinin en kritik bileşenlerinden biri haline geldi. Peki, bir API’yi nasıl test edebiliriz? API'lerde yetkilendirme hataları, zafiyetler ve veri sızıntıları nasıl tespit edilir?
+Bu soruların yanıtlarını uygulamalı örneklerle, adım adım araç kullanımıyla ve gerçek dünya senaryolarıyla ele aldığım API Penetration Testing rehberimi hazırladım! 
 
-# **Course Overview**
+📌 İçerikte neler var?
+✅ API Keşfi (Passive & Active Recon)
+✅ Yetkilendirme ve Kimlik Doğrulama Saldırıları (BOLA, BFLA, JWT Attacks)
+✅ Rate Limit Bypass Teknikleri
+✅ Mass Assignment & Injection Saldırıları
+✅ Güvenlik Açıkları Arasındaki İlişkiler & Gerçek Senaryolar
 
-### [**Introduction**](https://university.apisec.ai/products/api-penetration-testing/categories/2150251348)
+Bu rehberde Corey J. Ball katkıları ve APIsec University eğitimleriyle edindiğim bilgileri derleyerek test araçlarını detaylı şekilde inceledim.
+Keyifli Okumalar Dilerim. 🚀 
 
-1. Lab Setup
-    1. Setting up Your System
-    2. Setting up an API Hacking Lab
-2. API Discovery
-    1. Passive Techniques
-    2. Active Techniques
-3. Endpoint Analysis
-    1. The Process
-    2. Setting Up Requests
-    3. Interacting With an API
-    4. Testing for Excessive Data Exposure
-4. Vulnerability Scanning
-5. Authentication Attacks
-    1. Classic Authentication Attacks
-    2. Token Analysis and Forgery
-    3. Attacking JWTs
-6. Exploiting Authorization
-    1. Process
-    2. Finding Targets
-    3. BOLA
-    4. BFLA
-7. Testing for Improper Assets Management
-    1. Testing Process
-8. Mass Assignment
-    1. Process
-    2. Finding Targets
-9. Injection Attacks
-    1. Process
-    2. Finding Targets
-    3. Performing Injection Attacks
-10. Rate Limit Testing
-11. Combining Tools and Techniques
-    1. Leveraging Improper Assets Management with other vulns
-    2. Using data exposure with other vulns
-12. Course Conclusion and Additional Resources
+#CyberSecurity hashtag#APISecurity hashtag#PenetrationTesting hashtag#BugBounty hashtag#DevSecOps hashtag#ApplicationSecurity hashtag#OWASP hashtag#API hashtag#JWT
 
+https://spiffy-twist-65b.notion.site/API-PENTEST-NG-APISEC-09f85fce91384acb86fc9179a4344bc6
